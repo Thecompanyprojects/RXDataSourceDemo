@@ -1,0 +1,115 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AttributedTextView (1.4.1)
+  - Cache (5.2.0)
+  - Differentiator (3.1.0)
+  - IQKeyboardManagerSwift (6.2.1)
+  - Kingfisher (4.10.1)
+  - MJRefresh (3.1.16)
+  - Moya (13.0.0):
+    - Moya/Core (= 13.0.0)
+  - Moya/Core (13.0.0):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Moya/RxSwift (13.0.0):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - MoyaMapper (1.2.1):
+    - MoyaMapper/Core (= 1.2.1)
+  - MoyaMapper/Core (1.2.1):
+    - Moya (>= 11.0.0)
+    - SwiftyJSON
+  - MoyaMapper/MMCache (1.2.1):
+    - Cache
+    - MoyaMapper/Core
+  - MoyaMapper/Rx (1.2.1):
+    - Moya/RxSwift (>= 11.0.0)
+    - MoyaMapper/Core
+    - RxSwift
+  - MoyaMapper/RxCache (1.2.1):
+    - MoyaMapper/MMCache
+    - MoyaMapper/Rx
+  - "NSObject+Rx (4.4.1)":
+    - RxSwift (~> 4.3)
+  - Result (4.1.0)
+  - Reusable (4.0.5):
+    - Reusable/Storyboard (= 4.0.5)
+    - Reusable/View (= 4.0.5)
+  - Reusable/Storyboard (4.0.5)
+  - Reusable/View (4.0.5)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxGesture (2.2.0):
+    - RxCocoa (~> 4.5)
+    - RxSwift (~> 4.5)
+  - RxSwift (4.5.0)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+  - Then (2.4.0)
+
+DEPENDENCIES:
+  - AttributedTextView (= 1.4.1)
+  - IQKeyboardManagerSwift (= 6.2.1)
+  - Kingfisher (= 4.10.1)
+  - MJRefresh (= 3.1.16)
+  - MoyaMapper (= 1.2.1)
+  - MoyaMapper/RxCache (= 1.2.1)
+  - "NSObject+Rx (= 4.4.1)"
+  - Reusable (= 4.0.5)
+  - RxCocoa (= 4.5.0)
+  - RxDataSources (= 3.1.0)
+  - RxGesture (= 2.2.0)
+  - RxSwift (= 4.5.0)
+  - SnapKit (= 4.2.0)
+  - Then (= 2.4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AttributedTextView
+    - Cache
+    - Differentiator
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MJRefresh
+    - Moya
+    - MoyaMapper
+    - "NSObject+Rx"
+    - Result
+    - Reusable
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxSwift
+    - SnapKit
+    - SwiftyJSON
+    - Then
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AttributedTextView: 9e01651d96c1af861a9c67c2cc3f94c30320d1c2
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  IQKeyboardManagerSwift: 0f0ae8935360b4003e6ea1ac7c19898f01e2f7c7
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MJRefresh: 7798e16e53a5ef7f332dd05b27664db4e29530fd
+  Moya: 161263550064ff8a4948e8ff63137fd72a876292
+  MoyaMapper: 18b9351707f53778d263a987e740252f039521ba
+  "NSObject+Rx": 9884a92f19b610795c431e10b4e601913b59c9e9
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  Reusable: 188be1a54ac0691bc66e5bb24ec6eb91971b315b
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxGesture: c1b7bf17166b0ef9d642a9510f8bac5785f18990
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Then: 71866660c7af35a7343831f7668e7cd2b62ee0f2
+
+PODFILE CHECKSUM: fb235f60bc124ee67d7f90e0f4559cbdb923a1dd
+
+COCOAPODS: 1.6.1
